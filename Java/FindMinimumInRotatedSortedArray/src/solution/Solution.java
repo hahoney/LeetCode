@@ -25,6 +25,7 @@ public class Solution {
                 return num[begin];
             }
         }
+        // mid is approaching end, but begin
         return num[end];
     }
 }

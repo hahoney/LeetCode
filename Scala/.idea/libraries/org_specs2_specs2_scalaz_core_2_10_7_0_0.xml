@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.specs2:specs2-scalaz-core_2.10:7.0.0" type="repository">
+    <properties maven-id="org.specs2:specs2-scalaz-core_2.10:7.0.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/specs2/specs2-scalaz-core_2.10/7.0.0/specs2-scalaz-core_2.10-7.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.10.0/scala-library-2.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

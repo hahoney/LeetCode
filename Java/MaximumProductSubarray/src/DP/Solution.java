@@ -1,7 +1,9 @@
 package DP;
 
 /**
- * Created by zhangyi on 2/18/15.
+ *  maxProd = max{largest}
+ *  largest = max {A[i] , largest * A[i], smallest * A[i]}
+ *  smallest = min {A[i], largest * A[i], smallest * A[i]}
  */
 public class Solution {
     public int maxProduct(int[] A) {

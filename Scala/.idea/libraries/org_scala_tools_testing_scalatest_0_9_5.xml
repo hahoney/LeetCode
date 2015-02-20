@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.scala-tools.testing:scalatest:0.9.5" type="repository">
+    <properties maven-id="org.scala-tools.testing:scalatest:0.9.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-tools/testing/scalatest/0.9.5/scalatest-0.9.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/scala-lang/scala-library/2.7.3/scala-library-2.7.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,23 +1,29 @@
-package solution
-
-class Solution {
+import scala.annotation.tailrec
+object Solution {
   def finMin(num: Array[Int]): Int = {
+    @tailrec
     def binaryFind(begin: Int, end: Int): Int = {
-      if (begin < end) {
+      if (begin >= end) {
+        num(end)
+      }
+      else {
         val mid = (begin + end) / 2
-        // Must be in the right half rotated
         if (num(mid) >= num(end)) {
           binaryFind(mid + 1, end)
         } else if (num(mid) <= num(begin)) {
-          // Must be in the left half rotated
           binaryFind(begin, mid)
         } else {
           num(begin)
         }
-      } else {
-        num(end)
       }
     }
     binaryFind(0, num.length - 1)
   }
 }
+
+val num = Array(3, 4, 5, 6, 7, 8, 1, 2)
+Solution.finMin(num)
+
+
+
+

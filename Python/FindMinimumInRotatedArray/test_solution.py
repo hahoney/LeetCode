@@ -1,11 +1,11 @@
-from unittest import TestCase
+import unittest
 
 from random import randint
 
 from Solution import Solution
 
 
-class TestSolution(TestCase):
+class TestSolution(unittest.TestCase):
     sol = Solution()
 
     def test_null(self):
@@ -32,6 +32,17 @@ class TestSolution(TestCase):
 
     def rotateArray(self, array, pos):
         return array[pos + 1:] + array[0:pos + 1]
+
+
+def suite1():
+    suite1 = unittest.TestSuite()
+    suite1.addTest(TestSolution("test_null"))
+    suite1.addTest(TestSolution("test_unrotated"))
+    suite1.addTest(TestSolution("test_rotated"))
+
+if __name__ == "__main__":
+    runner = unittest.TextTestRunner()
+    runner.run(suite1)
 
 
 

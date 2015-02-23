@@ -2,6 +2,11 @@ package solution
 
 import "errors"
 
+/*
+ *  The solution only applies to
+ *  arrays without duplicates
+ */
+
 type Solution struct{}
 
 func (sol Solution) finMin(num []int) (minValue int, err error) {
@@ -12,11 +17,11 @@ func (sol Solution) finMin(num []int) (minValue int, err error) {
 	end := len(num) - 1
 	for begin < end {
 		var mid int
-		mid = (begin + end) / 2
-		if num[mid] >= num[end] {
-			begin = mid + 1
-		} else if num[mid] <= num[begin] {
+		mid = begin + (end-begin)/2
+		if num[mid] < num[end] {
 			end = mid
+		} else if num[mid] >= num[begin] {
+			begin = mid + 1
 		} else {
 			return num[begin], nil
 		}

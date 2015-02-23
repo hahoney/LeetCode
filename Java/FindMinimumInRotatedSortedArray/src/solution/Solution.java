@@ -1,8 +1,8 @@
 package solution;
 
 /**
- *  num[mid] >= num[hi]: rotated, min after mid
- *  num[mid] <= num[lo]: rotated, mid after min
+ *  num[mid] < num[hi]: rotated, mid after min
+ *  num[mid] > num[lo]: rotated, min after mid
  *  else: un-rotated, return first element
  */
 public class Solution {
@@ -14,18 +14,15 @@ public class Solution {
         int end = num.length - 1;
 
         while (end > begin) {
-            int mid = (begin + end) / 2;
-            // the array is rotated and min must be in the right half
-            if (num[mid] >= num[end]) {
-                begin = mid + 1;
-            } else if (num[mid] <= num[begin]) {
-                // must be in the left half rotated
+            int mid = begin + (end - begin) / 2;
+            if (num[mid] < num[end]) {
                 end = mid;
+            } else if (num[mid] >= num[begin]) {
+                begin = mid + 1;
             } else {
-                return num[begin];
+                break;
             }
         }
-        // mid is approaching end, but begin
-        return num[end];
+        return num[begin];
     }
 }

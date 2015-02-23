@@ -13,6 +13,12 @@ func TestSolution(t *testing.T) {
 	}
 	fmt.Println("OK")
 
+	fmt.Print("Test Duplicates: ")
+	minVal, ok = sol.finMin([]int{1, 3, 4})
+	if minVal != 1 {
+		t.Fatalf("Should get %v but get %v", 1, minVal)
+	}
+
 	fmt.Print("Test unrotated array: ")
 	num1 := []int{1, 2, 3, 4, 5, 6, 7}
 	minVal, _ = sol.finMin(num1)

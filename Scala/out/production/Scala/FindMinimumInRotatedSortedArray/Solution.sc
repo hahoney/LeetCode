@@ -1,4 +1,4 @@
-import scala.annotation.tailrec
+
 object Solution {
   def finMin(num: Array[Int]): Int = {
     @tailrec

@@ -1,4 +1,5 @@
 class Solution:
+    # does not apply to arrays with duplicates
     # @param num, a list of integer
     # @return an integer
     def findMin(self, num):
@@ -8,13 +9,13 @@ class Solution:
         end = len(num) - 1
 
         while begin < end:
-            mid = (begin + end) / 2
-            if num[mid] >= num[end]:
-                begin = mid + 1
-            elif num[mid] <= num[begin]:
+            mid = begin + (end - begin) / 2
+            if num[mid] < num[end]:
                 end = mid
+            elif num[mid] >= num[begin]:
+                begin = mid + 1
             else:
-                return num[begin]
-        return num[end]
+                break
+        return num[begin]
 
 

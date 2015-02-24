@@ -9,7 +9,7 @@ import "errors"
 
 type Solution struct{}
 
-func (sol Solution) finMin(num []int) (minValue int, err error) {
+func (sol *Solution) FindMin(num []int) (minValue int, err error) {
 	if num == nil || len(num) == 0 {
 		return 0, errors.New("Empty array")
 	}

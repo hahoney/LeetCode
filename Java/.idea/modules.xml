@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.iml" filepath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FindMinimumInRotatedSortedArray_Dup/FindMinimumInRotatedSortedArray_Dup.iml" filepath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray_Dup/FindMinimumInRotatedSortedArray_Dup.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java.iml" filepath="$PROJECT_DIR$/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MaximumProductSubarray/MaximumProductSubarray.iml" filepath="$PROJECT_DIR$/MaximumProductSubarray/MaximumProductSubarray.iml" />
-      <module fileurl="file://$PROJECT_DIR$/RegularExpressionMatching/RegularExpressionMatching.iml" filepath="$PROJECT_DIR$/RegularExpressionMatching/RegularExpressionMatching.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WildcardMatching/WildcardMatching.iml" filepath="$PROJECT_DIR$/WildcardMatching/WildcardMatching.iml" />
     </modules>
   </component>
 </project>

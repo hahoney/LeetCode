@@ -3,7 +3,7 @@ package FindMinimumInRotatedSortedArray_Dup
 import org.scalatest.FunSuite
 
 class SolutionTest extends FunSuite {
-  val sol = new Solution
+  val sol = new Solution()
   test("Test single element") {
     val num1 = Array(0)
     assert(sol.findMin(num1) == 0)

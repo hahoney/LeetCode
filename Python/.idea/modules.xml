@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FinMinimumInRotatedArray_Dup/FinMinimumInRotatedArray_Dup.iml" filepath="$PROJECT_DIR$/FinMinimumInRotatedArray_Dup/FinMinimumInRotatedArray_Dup.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FindMinimumInRotatedArray/FindMinimumInRotatedArray.iml" filepath="$PROJECT_DIR$/FindMinimumInRotatedArray/FindMinimumInRotatedArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python.iml" filepath="$PROJECT_DIR$/Python.iml" />
     </modules>
   </component>

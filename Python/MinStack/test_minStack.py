@@ -15,6 +15,12 @@ class TestMinStack(unittest.TestCase):
         assert minStack.top() == 1
         assert minStack.getMin() == 0
 
+    def test_minStack2(self):
+        minStack = MinStack()
+        minStack.push(-1)
+        assert minStack.top() == -1
+        assert minStack.getMin() == -1
+
 def suite():
     suite1 = unittest.TestSuite()
     suite1.addTest(TestMinStack("test_minStack1"))

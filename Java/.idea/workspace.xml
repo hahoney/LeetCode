@@ -2,53 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22304fdc-6c94-460a-b3de-578e47323315" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinimumStack/MinStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MinimumStack/MinStackTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Python/FindMinimumInRotatedSortedArray/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Python/FindMinimumInRotatedSortedArray_Dup/__init__.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/FindMinimumInRotatedSortedArray.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/src/solution/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray/src/solution/SolutionTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray_Dup/FindMinimumInRotatedSortedArray_Dup.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray_Dup/src/solution/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/FindMinimumInRotatedSortedArray_Dup/src/solution/SolutionTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MaximumProductSubarray/MaximumProductSubarray.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MaximumProductSubarray/src/DP/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MaximumProductSubarray/src/DP/SolutionTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MaximumProductSubarray/src/solution/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/MaximumProductSubarray/src/solution/SolutionTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RegularExpressionMatching/RegularExpressionMatching.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RegularExpressionMatching/src/Recursion/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/RegularExpressionMatching/src/Recursion/SolutionTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WildcardMatching/WildcardMatching.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WildcardMatching/src/DP/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/WildcardMatching/src/Recursion/Solution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FindMinimumInRotatedSortedArray/solution/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FindMinimumInRotatedSortedArray/solution/SolutionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FindMinimumInRotatedSortedArray_Dup/solution/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/FindMinimumInRotatedSortedArray_Dup/solution/SolutionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MaximumProductSubarray/DP/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MaximumProductSubarray/DP/SolutionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MaximumProductSubarray/solution/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MaximumProductSubarray/solution/SolutionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/RegularExpressionMatching/Recursion/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/RegularExpressionMatching/Recursion/SolutionTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WildcardMatching/DP/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/WildcardMatching/Recursion/Solution.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Python/FinMinimumInRotatedArray_Dup/FinMinimumInRotatedArray_Dup.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../Python/FindMinimumInRotatedArray/FindMinimumInRotatedArray.iml" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Python/FinMinimumInRotatedArray_Dup/Solution.py" afterPath="$PROJECT_DIR$/../Python/FindMinimumInRotatedSortedArray_Dup/Solution.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Python/FinMinimumInRotatedArray_Dup/test_solution.py" afterPath="$PROJECT_DIR$/../Python/FindMinimumInRotatedSortedArray_Dup/test_solution.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/../Python/FindMinimumInRotatedArray/Solution.py" afterPath="$PROJECT_DIR$/../Python/FindMinimumInRotatedSortedArray/Solution.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Java.iml" afterPath="$PROJECT_DIR$/Java.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Scala/src/FindMinimumInRotatedSortedArray_Dup/SolutionTest.scala" afterPath="$PROJECT_DIR$/../Scala/src/FindMinimumInRotatedSortedArray_Dup/SolutionTest.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Scala/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Scala/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Python/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Java/MinimumStack/MinStack.class" afterPath="$PROJECT_DIR$/out/production/Java/MinimumStack/MinStack.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/MinStack/MinStack.py" afterPath="$PROJECT_DIR$/../Python/MinStack/MinStack.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/MinStack/test_minStack.py" afterPath="$PROJECT_DIR$/../Python/MinStack/test_minStack.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Python/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Python/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Scala/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Scala/.idea/workspace.xml" />
     </list>
     <ignored path="Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,31 +35,7 @@
     <favorites_list name="Java" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MinStack.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.17045455" vertical-offset="30" max-vertical-offset="600">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-              <folding>
-                <element signature="e#151#160#0" expanded="true" />
-                <element signature="e#208#217#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinStackTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-              <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -132,7 +66,6 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="87" />
     <option name="y" value="22" />
     <option name="width" value="1440" />
     <option name="height" value="790" />
@@ -160,8 +93,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -177,6 +110,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -205,6 +152,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -566,22 +514,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list />
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -602,6 +534,22 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -654,22 +602,6 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <extension name="scalaCoverage" />
-      <module name="" />
-      <setting name="path" value="" />
-      <setting name="package" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workingDirectory" value="$PROJECT_DIR$" />
-      <setting name="searchForTest" value="Across module dependencies" />
-      <setting name="testName" value="" />
-      <setting name="testKind" value="Class" />
-      <setting name="showProgressMessages" value="true" />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -690,6 +622,22 @@
       <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.FindMinimumInRotatedSortedArray_Dup in Java" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.RegularExpressionMatching in Java" />
@@ -708,6 +656,9 @@
     </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="22304fdc-6c94-460a-b3de-578e47323315" name="Default" comment="" />
@@ -718,7 +669,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="87" y="22" width="1440" height="790" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="790" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -728,23 +679,23 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3297568" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -773,6 +724,36 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="315">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="315">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindMinimumInRotatedSortedArray_Dup/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.06818182" vertical-offset="0" max-vertical-offset="510">
@@ -784,7 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23863636" vertical-offset="0" max-vertical-offset="510">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -834,26 +814,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.57954544" vertical-offset="0" max-vertical-offset="440">
           <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStackTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.17045455" vertical-offset="30" max-vertical-offset="600">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-          <folding>
-            <element signature="e#151#160#0" expanded="true" />
-            <element signature="e#208#217#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="1.1590909" vertical-offset="0" max-vertical-offset="600">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumStack/MinStackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4431818" vertical-offset="0" max-vertical-offset="440">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -915,7 +890,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
